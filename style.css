@@ -1,0 +1,22 @@
+body {
+  background-color: ivory;
+  font-family: Georgia, serif;
+  margin: 40px;
+}
+
+h1 {
+  color: darkseagreen;
+}
+
+h2 {
+  color: darkslategray;
+}
+
+a {
+  color: darkslategray;
+  margin-right: 15px;
+}
+
+p {
+  font-size: 18px;
+}
