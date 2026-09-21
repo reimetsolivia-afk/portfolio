@@ -44,6 +44,7 @@ main {
   max-width: 900px;
   margin: 50px auto;
   padding: 0 25px;
+  text-align: center;
 }
 
 h2 {
@@ -57,7 +58,6 @@ p {
 }
 
 .featured {
-  text-align: center;
   margin-top: 50px;
 }
 
@@ -65,3 +65,4 @@ p {
   width: 100%;
   max-width: 650px;
 }
+```
