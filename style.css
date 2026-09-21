@@ -100,9 +100,9 @@ h3 {
 
 .description {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  bottom: 4px;
+  left: 4px;
+  right: 4px;
   padding: 20px;
   background-color: rgba(41, 41, 35, 0.9);
   color: white;
