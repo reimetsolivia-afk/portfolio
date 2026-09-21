@@ -78,3 +78,28 @@ h3 {
   font-style: italic;
   color: #77776d;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px 30px;
+  margin-top: 50px;
+}
+
+.artwork img {
+  width: 100%;
+  border: 4px solid #394238;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.artwork h3 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.artwork p {
+  font-size: 15px;
+  font-style: italic;
+  color: #77776d;
+  margin-top: 0;
+}
