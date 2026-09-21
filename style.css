@@ -103,6 +103,7 @@ h3 {
   bottom: 4px;
   left: 4px;
   right: 4px;
+  box-sizing: border-box;
   padding: 20px;
   background-color: rgba(41, 41, 35, 0.9);
   color: white;
