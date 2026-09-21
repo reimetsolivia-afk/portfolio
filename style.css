@@ -67,3 +67,14 @@ p {
   border: 8px solid white;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
 }
+
+h3 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.art-description {
+  font-size: 15px;
+  font-style: italic;
+  color: #77776d;
+}
