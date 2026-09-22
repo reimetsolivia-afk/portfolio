@@ -85,9 +85,12 @@ h3 {
 }
 
 .artwork {
-  position: relative;
   margin-bottom: 30px;
   break-inside: avoid;
+}
+
+.image-container {
+  position: relative;
   border: 4px solid #394238;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
   overflow: hidden;
@@ -111,17 +114,18 @@ h3 {
   transition: opacity 0.3s;
 }
 
-.artwork:hover .description {
+.image-container:hover .description {
   opacity: 1;
-}
-
-.description h3 {
-  margin: 0 0 5px;
-  font-size: 20px;
 }
 
 .description p {
   margin: 0;
   font-size: 14px;
   line-height: 1.5;
+}
+
+.artwork h3 {
+  margin: 12px 0 0;
+  font-size: 20px;
+  font-weight: normal;
 }
