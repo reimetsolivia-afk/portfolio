@@ -92,7 +92,7 @@ h3 {
 .image-container {
   position: relative;
   border: 4px solid #394238;
-  box-shadow: 0 4px 15px rgba(36, 46, 36, 0.25);
+  box-shadow: 0 4px 15px rgba(45, 50, 45, 0.25);
   overflow: hidden;
 }
 
