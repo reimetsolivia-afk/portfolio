@@ -129,3 +129,18 @@ h3 {
   font-size: 20px;
   font-weight: normal;
 }
+
+.gallery-nav {
+  margin: 30px 0;
+}
+
+.gallery-nav a {
+  color: #292923;
+  text-decoration: none;
+  margin: 0 12px;
+  font-size: 16px;
+}
+
+.gallery-nav a:hover {
+  color: #71806a;
+}
