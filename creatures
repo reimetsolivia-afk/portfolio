@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Gallery · Mrs. Gremlin's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <header>
+      <h1>MRS. GREMLIN</h1>
+
+      <div class="subtitle">
+        Art, creatures and whimsical vibes
+      </div>
+    </header>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="about.html">About</a>
+    </nav>
+
+    <main>
+
+      <h2>Gallery</h2>
+
+      <div class="gallery-nav">
+        <a href="gallery.html">All</a>
+        <a href="characters.html">Characters</a>
+        <a href="creatures.html">Creatures</a>
+        <a href="other.html">Other</a>
+      </div>
+      
+<div class="gallery">
+
+<div class="artwork">
+  <div class="image-container">
+    <img src="images/onigiri_owls.png" alt="Onigiri Owls">
+    <div class="description">
+      <p>Made for the 2026 Chroma Corps challenge as a follow-along.</p>
+    </div>
+  </div>
+  <h3>Onigiri Owls</h3>
+</div>
+
+  <div class="artwork">
+    <div class="image-container">
+      <img src="images/zombie_toad_dragon.jpg" alt="Zombie Toad Dragon">
+      <div class="description">
+        <p>Part toad, part dragon, possibly undead. Made for the 2026 Chroma Corps challenge as a follow-along.</p>
+      </div>
+    </div>
+    <h3>Zombie Toad Dragon</h3>
+  </div>
+
+  <div class="artwork">
+    <div class="image-container">
+      <img src="images/willow_deer.jpg" alt="Willow Deer">
+      <div class="description">
+        <p>A quiet creature from a strange forest.</p>
+      </div>
+    </div>
+    <h3>Willow Deer</h3>
+  </div>
+      
+</div>
+    </main>
+
+  </body>
+
+</html>
