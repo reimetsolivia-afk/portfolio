@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Gallery · Mrs. Gremlin's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <header>
+      <h1>MRS. GREMLIN</h1>
+
+      <div class="subtitle">
+        Art, creatures and whimsical vibes
+      </div>
+    </header>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="about.html">About</a>
+    </nav>
+
+    <main>
+
+      <h2>Gallery</h2>
+
+      <div class="gallery-nav">
+        <a href="gallery.html">All</a>
+        <a href="characters.html">Characters</a>
+        <a href="creatures.html">Creatures</a>
+        <a href="other.html">Other</a>
+      </div>
+      
+<div class="gallery">
+
+<div class="artwork">
+  <div class="image-container">
+    <img src="images/water_creature.png" alt="Water Creature">
+    <div class="description">
+      <p>This creature nearly drowned in the swamp when they were human, on her way to her wedding, if a lake spirit hadn't taken mercy on her. They fused, she survived, but was unrecognizable to her lover. She was left wondering the swamp, waiting for their lover to come back to them.</p>
+    </div>
+  </div>
+  <h3>Water Creature</h3>
+</div>
+
+  <div class="artwork">
+    <div class="image-container">
+      <img src="images/winged_emissary.jpg" alt="Winged Emissary">
+      <div class="description">
+        <p>This creature brings news from all across the land. Made for the 2026 Chroma Corps challenge as a follow-along.</p>
+      </div>
+    </div>
+    <h3>Winged Emissary</h3>
+  </div>
+
+  <div class="artwork">
+    <div class="image-container">
+      <img src="images/demon_lady.jpg" alt="Demon Lady">
+      <div class="description">
+        <p>Eos has been here since the beginning of time. A demon? A goddess? No one knows for sure. She has the ability to bring forth creation and wonder, but also destruction and fear. For better or for worse, her powers have been executed if a blazing red sun is seen in the sky.</p>
+      </div>
+    </div>
+    <h3>Eos - the Red Sun Goddess/Demoness</h3>
+  </div>
+      
+</div>
+    </main>
+
+  </body>
+
+</html>
